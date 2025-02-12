@@ -80,7 +80,7 @@ Setup and Installation
 
     `npm start`
 
-    The frontend will run on http://localhost:3000.
+    The frontend will run on http://localhost:5173.
 
 ### Backend Setup (Spring Boot)
 
